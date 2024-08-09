@@ -20,19 +20,19 @@ This is a simple Todo application built for Android using Kotlin. The app allows
 ## Screenshots
 
 ### List View
-![List View](assets/images/todo_list.png?raw=true)
+![List View](https://github.com/shwehnin/todo_offline/app/assets/images/todo_list.png)
 
 ### Create View
-![Create View](assets/images/add_todo.png?raw=true)
+![Create View](https://github.com/shwehnin/todo_offline/app/assets/images/add_todo.png)
 
 ### Edit View
-![Edit View](assets/images/todo_edit.png?raw=true)
+![Edit View](https://github.com/shwehnin/todo_offline/app/assets/images/todo_edit.png)
 
 ### Detail View
-![Detail View](assets/images/todo_details.png?raw=true)
+![Detail View](https://github.com/shwehnin/todo_offline/app/assets/images/todo_details.png)
 
 ### Delete View
-![Delete View](assets/images/todo_delete.png?raw=true)
+![Delete View](https://github.com/shwehnin/todo_offline/app/assets/images/todo_delete.png)
 
 
 ## Installation
