@@ -4,7 +4,7 @@
 This is a simple Todo application built for Android using Kotlin. The app allows users to create, update, delete, view details, and list todos. All data is stored locally using an SQLite database.
 
 
-## Tech Stack
+## Features
 
 **Create Todo:** Add a new task with a title, description, date, time, status, task plan, and task priority.
 
